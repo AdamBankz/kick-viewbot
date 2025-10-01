@@ -1,0 +1,4 @@
+websockets
+streamlink
+fake-useragent
+tls-client
