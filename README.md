@@ -9,6 +9,7 @@ Accountless `kick.com` viewerbot utilising `X-CLIENT-TOKEN` and heartbeats for s
 * Download the repository 
 * Extract the downloaded folder
 * Open a Command Prompt in the folder with `kick.py`
+* Run `pip install -r requirements.txt`
 * Type `python kick.py` in the terminal and click Enter
 * Enter the inputs such as streamer name and amount of viewers
 <br><br>
