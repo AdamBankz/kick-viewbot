@@ -1,2 +1,2 @@
-# kick-viewbot
-A python script utilising WebSockets to artificially increase a stream's viewer count on Kick.
+# Kick Viewbot <img height=25 src="https://github.com/user-attachments/assets/c9728859-2739-4978-8262-6ef455ee0ddc">
+
