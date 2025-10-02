@@ -2,7 +2,11 @@
 
 
 
-Accountless `kick.com` viewerbot utilising `X-CLIENT-TOKEN` and heartbeats for stable, nondrop views.
+**Accountless `kick.com` viewerbot utilising `X-CLIENT-TOKEN` and heartbeats for stable, nondrop views. <br>**
+
+**Right now the limit is 250 viewers as the script isn't optimised, however, I have updated versions ready for when we hit Star Goals ⭐**
+<img width="1159" height="206" alt="image" src="https://github.com/user-attachments/assets/ac6c0167-cecd-4702-be9f-7fa45aeafaa6" />
+
 <br><br>
 
 ## Usage:
