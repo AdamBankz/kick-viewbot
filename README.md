@@ -22,3 +22,8 @@
 ⭐ 50 - Optimise Sockets (10K viewers at once)<br>
 ⭐ 100 - Make a `.GO` version (50K+ viewers at once)<br>
 ⭐ 250 - Make a website for botting kick viewers (No download)
+
+
+# Premium 💎
+For premium solutions add `domddy9` on Discord!
+* Viewbot, Followbot, Chatbot, Account Generator
