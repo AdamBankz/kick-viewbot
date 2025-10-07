@@ -25,5 +25,5 @@
 
 
 # Premium 💎
-For premium solutions add `domddy9` on Discord!
-* Viewbot, Followbot, Chatbot, Account Generator
+- For premium solutions add `domddy9` on Discord!
+- Viewbot, Followbot, Chatbot, Account Generator
