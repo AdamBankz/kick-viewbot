@@ -19,8 +19,9 @@
 <br><br>
 ## **Star Goals:**
 ⭐ 10 - Add Live Viewer tracking in Terminal<br>
-⭐ 50 - Optimise Sockets (10K viewers at once)<br>
-⭐ 100 - Make a `.GO` version (50K+ viewers at once)<br>
+⭐ 25 - Optimise Sockets (More viewers)<br>
+⭐ 25 - Add Proxy Support (10K+ viewers)<br>
+⭐ 100 - Make a `.GO` version (20K+ viewers at once)<br>
 ⭐ 250 - Make a website for botting kick viewers (No download)
 
 
