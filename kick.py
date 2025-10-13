@@ -349,6 +349,8 @@ def run(thread_count, channel_name):
     for t in threads:
         t.join()
 
+
+
 if __name__ == "__main__":
     try:
         os.system('cls' if os.name == 'nt' else 'clear')
@@ -371,4 +373,5 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         stop = True
         print("Stopping...")
+
         sys.exit(0)
