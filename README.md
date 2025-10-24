@@ -18,13 +18,11 @@
 * Enter the inputs such as streamer name and amount of viewers
 <br><br>
 ## **Star Goals:**
-⭐ 10 - Add Live Viewer tracking in Terminal<br>
-⭐ 25 - Optimise Sockets (More viewers)<br>
-⭐ 50 - Add Proxy Support (10K+ viewers)<br>
-⭐ 100 - Make a `.GO` version (20K+ viewers at once)<br>
+
+~~⭐ 10 - Add Live Viewer tracking in Terminal~~ <br>
+~~⭐ 25 - Optimise Sockets (More viewers)~~ <br>
+~~⭐ 50 - Add Proxy Support (10K+ viewers)~~ <br>
+⭐ 100 - Make a `.GO` version (20K+ viewers at once) <br>
 ⭐ 250 - Make a website for botting kick viewers (No download)
 
 
-# Premium 💎
-- For premium solutions add `domddy9` on Discord!
-- Viewbot, Followbot, Chatbot, Account Generator
