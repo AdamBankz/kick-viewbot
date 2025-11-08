@@ -27,4 +27,4 @@
 
 
 #
-Visit https://tiktool.pro/ for a quick, no download viewbot site.
+Visit https://tiktool.pro/ for a quick, no download TikTok viewbot site.
